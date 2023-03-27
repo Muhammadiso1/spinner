@@ -50,7 +50,7 @@ top: 400px;
     flex-direction: column;
     justify-content: center;
     margin: 0 auto;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
   }
   button{
     height: 56px;
